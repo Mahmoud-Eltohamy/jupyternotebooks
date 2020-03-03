@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 3.1.2 (Python 3.8.1 on win32)" generated="20200223 16:59:41.390" rpa="false">
+<suite id="s1" name="Portals Login Tests" source="C:\Users\SLVR0134\Desktop\BDDComparison\robotframeworkRunbooks\portals_login_tests.ipynb">
+<test id="s1-t1" name="01. Login Tests - Valid Login - Valid Username And Valid Password">
+<kw name="given The Browser Is Opened To Login Page">
+<msg timestamp="20200223 16:59:41.446" level="FAIL">No keyword with name 'given The Browser Is Opened To Login Page' found.</msg>
+<status status="FAIL" starttime="20200223 16:59:41.446" endtime="20200223 16:59:41.446"></status>
+</kw>
+<kw name="Close Browser" type="teardown">
+<msg timestamp="20200223 16:59:41.448" level="FAIL">No keyword with name 'Close Browser' found.</msg>
+<status status="FAIL" starttime="20200223 16:59:41.448" endtime="20200223 16:59:41.448">No keyword with name 'Close Browser' found.</status>
+</kw>
+<status status="FAIL" starttime="20200223 16:59:41.444" endtime="20200223 16:59:41.449" critical="yes">No keyword with name 'given The Browser Is Opened To Login Page' found.
+
+Also teardown failed:
+No keyword with name 'Close Browser' found.</status>
+</test>
+<test id="s1-t2" name="02. Login Tests - inValid Login - Invalid Username And Valid Password">
+<kw name="given The Browser Is Opened To Login Page">
+<msg timestamp="20200223 16:59:41.452" level="FAIL">No keyword with name 'given The Browser Is Opened To Login Page' found.</msg>
+<status status="FAIL" starttime="20200223 16:59:41.452" endtime="20200223 16:59:41.452"></status>
+</kw>
+<kw name="Close Browser" type="teardown">
+<msg timestamp="20200223 16:59:41.455" level="FAIL">No keyword with name 'Close Browser' found.</msg>
+<status status="FAIL" starttime="20200223 16:59:41.455" endtime="20200223 16:59:41.455">No keyword with name 'Close Browser' found.</status>
+</kw>
+<status status="FAIL" starttime="20200223 16:59:41.450" endtime="20200223 16:59:41.455" critical="yes">No keyword with name 'given The Browser Is Opened To Login Page' found.
+
+Also teardown failed:
+No keyword with name 'Close Browser' found.</status>
+</test>
+<test id="s1-t3" name="03. Login Tests - inValid Login - Valid Username And Invalid Password">
+<kw name="Given The Browser Is Opened To Login Page">
+<msg timestamp="20200223 16:59:41.460" level="FAIL">No keyword with name 'Given The Browser Is Opened To Login Page' found.</msg>
+<status status="FAIL" starttime="20200223 16:59:41.460" endtime="20200223 16:59:41.460"></status>
+</kw>
+<kw name="Close Browser" type="teardown">
+<msg timestamp="20200223 16:59:41.462" level="FAIL">No keyword with name 'Close Browser' found.</msg>
+<status status="FAIL" starttime="20200223 16:59:41.462" endtime="20200223 16:59:41.462">No keyword with name 'Close Browser' found.</status>
+</kw>
+<status status="FAIL" starttime="20200223 16:59:41.457" endtime="20200223 16:59:41.462" critical="yes">No keyword with name 'Given The Browser Is Opened To Login Page' found.
+
+Also teardown failed:
+No keyword with name 'Close Browser' found.</status>
+</test>
+<test id="s1-t4" name="04. Login Tests - Invalid Login - Invalid Username And Invalid Password">
+<kw name="Given The Browser Is Opened To Login Page">
+<msg timestamp="20200223 16:59:41.466" level="FAIL">No keyword with name 'Given The Browser Is Opened To Login Page' found.</msg>
+<status status="FAIL" starttime="20200223 16:59:41.466" endtime="20200223 16:59:41.466"></status>
+</kw>
+<kw name="Close Browser" type="teardown">
+<msg timestamp="20200223 16:59:41.468" level="FAIL">No keyword with name 'Close Browser' found.</msg>
+<status status="FAIL" starttime="20200223 16:59:41.468" endtime="20200223 16:59:41.468">No keyword with name 'Close Browser' found.</status>
+</kw>
+<status status="FAIL" starttime="20200223 16:59:41.463" endtime="20200223 16:59:41.468" critical="yes">No keyword with name 'Given The Browser Is Opened To Login Page' found.
+
+Also teardown failed:
+No keyword with name 'Close Browser' found.</status>
+</test>
+<test id="s1-t5" name="05. Login Tests - Invalid Login - Empty Username And valid Password">
+<kw name="Given The Browser Is Opened To Login Page">
+<msg timestamp="20200223 16:59:41.477" level="FAIL">No keyword with name 'Given The Browser Is Opened To Login Page' found.</msg>
+<status status="FAIL" starttime="20200223 16:59:41.477" endtime="20200223 16:59:41.477"></status>
+</kw>
+<kw name="Close Browser" type="teardown">
+<msg timestamp="20200223 16:59:41.479" level="FAIL">No keyword with name 'Close Browser' found.</msg>
+<status status="FAIL" starttime="20200223 16:59:41.479" endtime="20200223 16:59:41.479">No keyword with name 'Close Browser' found.</status>
+</kw>
+<status status="FAIL" starttime="20200223 16:59:41.471" endtime="20200223 16:59:41.480" critical="yes">No keyword with name 'Given The Browser Is Opened To Login Page' found.
+
+Also teardown failed:
+No keyword with name 'Close Browser' found.</status>
+</test>
+<test id="s1-t6" name="06. Login Tests - Invalid Login - Valid Username And Empty Password">
+<kw name="Given The Browser Is Opened To Login Page">
+<msg timestamp="20200223 16:59:41.485" level="FAIL">No keyword with name 'Given The Browser Is Opened To Login Page' found.</msg>
+<status status="FAIL" starttime="20200223 16:59:41.485" endtime="20200223 16:59:41.485"></status>
+</kw>
+<kw name="Close Browser" type="teardown">
+<msg timestamp="20200223 16:59:41.487" level="FAIL">No keyword with name 'Close Browser' found.</msg>
+<status status="FAIL" starttime="20200223 16:59:41.487" endtime="20200223 16:59:41.487">No keyword with name 'Close Browser' found.</status>
+</kw>
+<status status="FAIL" starttime="20200223 16:59:41.483" endtime="20200223 16:59:41.488" critical="yes">No keyword with name 'Given The Browser Is Opened To Login Page' found.
+
+Also teardown failed:
+No keyword with name 'Close Browser' found.</status>
+</test>
+<test id="s1-t7" name="07. Login Tests - Invalid Login - Empty Username And Empty Password">
+<kw name="Given The Browser Is Opened To Login Page">
+<msg timestamp="20200223 16:59:41.497" level="FAIL">No keyword with name 'Given The Browser Is Opened To Login Page' found.</msg>
+<status status="FAIL" starttime="20200223 16:59:41.497" endtime="20200223 16:59:41.497"></status>
+</kw>
+<kw name="Close Browser" type="teardown">
+<msg timestamp="20200223 16:59:41.499" level="FAIL">No keyword with name 'Close Browser' found.</msg>
+<status status="FAIL" starttime="20200223 16:59:41.499" endtime="20200223 16:59:41.499">No keyword with name 'Close Browser' found.</status>
+</kw>
+<status status="FAIL" starttime="20200223 16:59:41.494" endtime="20200223 16:59:41.500" critical="yes">No keyword with name 'Given The Browser Is Opened To Login Page' found.
+
+Also teardown failed:
+No keyword with name 'Close Browser' found.</status>
+</test>
+<test id="s1-t8" name="08. Login Tests - logout">
+<kw name="given The Browser Is Opened To Login Page">
+<msg timestamp="20200223 16:59:41.510" level="FAIL">No keyword with name 'given The Browser Is Opened To Login Page' found.</msg>
+<status status="FAIL" starttime="20200223 16:59:41.510" endtime="20200223 16:59:41.510"></status>
+</kw>
+<kw name="Close Browser" type="teardown">
+<msg timestamp="20200223 16:59:41.513" level="FAIL">No keyword with name 'Close Browser' found.</msg>
+<status status="FAIL" starttime="20200223 16:59:41.513" endtime="20200223 16:59:41.513">No keyword with name 'Close Browser' found.</status>
+</kw>
+<status status="FAIL" starttime="20200223 16:59:41.505" endtime="20200223 16:59:41.514" critical="yes">No keyword with name 'given The Browser Is Opened To Login Page' found.
+
+Also teardown failed:
+No keyword with name 'Close Browser' found.</status>
+</test>
+<test id="s1-t9" name="09. Login Tests - logout with navigation">
+<kw name="given The Browser Is Opened To Login Page">
+<msg timestamp="20200223 16:59:41.520" level="FAIL">No keyword with name 'given The Browser Is Opened To Login Page' found.</msg>
+<status status="FAIL" starttime="20200223 16:59:41.520" endtime="20200223 16:59:41.520"></status>
+</kw>
+<kw name="Close Browser" type="teardown">
+<msg timestamp="20200223 16:59:41.524" level="FAIL">No keyword with name 'Close Browser' found.</msg>
+<status status="FAIL" starttime="20200223 16:59:41.523" endtime="20200223 16:59:41.525">No keyword with name 'Close Browser' found.</status>
+</kw>
+<status status="FAIL" starttime="20200223 16:59:41.518" endtime="20200223 16:59:41.526" critical="yes">No keyword with name 'given The Browser Is Opened To Login Page' found.
+
+Also teardown failed:
+No keyword with name 'Close Browser' found.</status>
+</test>
+<doc>A test suite with a single test for valid login.
+
+This test has a workflow that is created using keywords in
+the imported resource file.</doc>
+<status status="FAIL" starttime="20200223 16:59:41.398" endtime="20200223 16:59:41.529"></status>
+</suite>
+<statistics>
+<total>
+<stat pass="0" fail="9">Critical Tests</stat>
+<stat pass="0" fail="9">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="0" fail="9" id="s1" name="Portals Login Tests">Portals Login Tests</stat>
+</suite>
+</statistics>
+<errors>
+<msg timestamp="20200223 16:59:41.375" level="WARN">Automatically parsing other than '*.robot' files is deprecated. Convert 'C:\Users\SLVR0134\Desktop\BDDComparison\robotframeworkRunbooks\portals_login_tests.ipynb' to '*.robot' format or use '--extension' to explicitly configure which files to parse.</msg>
+<msg timestamp="20200223 16:59:41.441" level="ERROR">Error in file 'C:\Users\SLVR0134\Desktop\BDDComparison\robotframeworkRunbooks\portals_login_tests.ipynb': Resource file 'resources\portals.ipynb' does not exist.</msg>
+</errors>
+</robot>
